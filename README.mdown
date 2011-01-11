@@ -4,6 +4,6 @@ This presentation and code is designed to give a high-level overview of some of 
 
 If you're interested in learning about Jasmine, I encourage you to download the project and play with the sample code while thumbing through the slides. If test-driving is old hat to you, then I'd be enthused to hear your feedback!  
 
-This presentation is also available in various forms for download from iWork.com (URL incoming).
+This presentation is also available [for view online at iWork.com](http://public.iwork.com/document/?d=jasmine-intro.key&a=p94397438)
 
--- [Justin Searls](http://about.me/searls)
+-- [Justin Searls](http://about.me/searls), [Pillar Technology](http://pillartechnology.com)
