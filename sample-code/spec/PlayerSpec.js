@@ -1,21 +1,22 @@
 describe("Player", function() {
   var player;
-  beforeEach(function(){ 
+  beforeEach(function(){
     player = new Player();
     spyOn(loading,'show');
     player.play();
   });
-  it('shows loading indicator',function(){
+  it('shows a loading indicator',function(){
     expect(loading.show).toHaveBeenCalled();
   });
-  
-  it('is playing',function(){
-    expect(player.isPlaying).toBeTruthy();
-  })
+  it('plays',function(){
+    expect(player.isPlaying).toBe(true);
+  });
   describe('pausing',function(){
-    beforeEach(function(){ player.pause(); });
-    it('is not playing',function(){
+    beforeEach(function(){
+      player.pause();
+    });
+    it('pauses',function() {
       expect(player).not.toBePlaying();
-    })
+    });    
   });
 });
