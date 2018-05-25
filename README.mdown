@@ -1,6 +1,6 @@
 # An Introduction to JavaScript testing with Jasmine BDD 
 
-This presentation and code is designed to give a high-level overview of some of the basic features of [Jasmine](http://pivotal.github.com/jasmine), the BDD framework for JavaScript from the folks at Pivotal Labs.
+This presentation and code is designed to give a high-level overview of some of the basic features of [Jasmine](https://jasmine.github.io/), the BDD framework for JavaScript from the folks at Pivotal Labs.
 
 If you're interested in learning about Jasmine, I encourage you to [download the project](https://github.com/searls/jasmine-intro/zipball/master) and play with the sample code while thumbing through the slides. If test-driving is old hat to you, then I'd be enthused to hear your feedback!  
 
